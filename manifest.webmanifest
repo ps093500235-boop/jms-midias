@@ -1,0 +1,31 @@
+{
+  "background_color": "#08080f",
+  "description": "Convites em vídeo, novelinhas, topos de bolo personalizados e artes digitais da JMS Mídias.",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "/icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/icon-maskable-512.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "pt-BR",
+  "name": "JMS Mídias",
+  "scope": "/",
+  "short_name": "JMS",
+  "start_url": "/",
+  "theme_color": "#08080f"
+}
